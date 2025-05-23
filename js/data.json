@@ -13,7 +13,7 @@
     "img1": "/elkiosco/img/whatsapp-brands.svg",
     "img2": "/elkiosco/img/",
     "img3": "/elkiosco/img/",
-    "clase": "displayBlockPlato"
+    "clase": "displayNonePlato"
   },
   {
     "id": 3,
@@ -34,6 +34,14 @@
   {
     "id": 5,
     "nombrePlato": "Sancocho de gallina",
+    "img1": "/elkiosco/img/",
+    "img2": "/elkiosco/img/",
+    "img3": "/elkiosco/img/",
+    "clase": "displayBlockPlato"
+  },
+  {
+    "id": 6,
+    "nombrePlato": "Frijolada",
     "img1": "/elkiosco/img/",
     "img2": "/elkiosco/img/",
     "img3": "/elkiosco/img/",
