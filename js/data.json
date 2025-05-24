@@ -2,49 +2,49 @@
   {
     "id": 1,
     "nombrePlato": "Pollo al horno",
-    "img1": "/elkiosco/img/textura.webp",
-    "img2": "/elkiosco/img/",
-    "img3": "/elkiosco/img/",
+    "img1": "./img/pollo-al-horno-1.webp",
+    "img2": "./img/pollo-al-horno-2.webp",
+    "img3": "./img/pollo-al-horno-1.webp",
     "clase": "displayBlockPlato"
   },
   {
     "id": 2,
     "nombrePlato": "Cuchuco cogote de marrano",
-    "img1": "/elkiosco/img/whatsapp-brands.svg",
-    "img2": "/elkiosco/img/",
-    "img3": "/elkiosco/img/",
+    "img1": "./img/",
+    "img2": "./img/",
+    "img3": "./img/",
     "clase": "displayNonePlato"
   },
   {
     "id": 3,
     "nombrePlato": "Sobrebarriga en salsa",
-    "img1": "/elkiosco/img/",
-    "img2": "/elkiosco/img/",
-    "img3": "/elkiosco/img/",
+    "img1": "./img/sobrebarriga-1.webp",
+    "img2": "./img/sobrebarriga-2.webp",
+    "img3": "./img/sobrebarriga-3.webp",
     "clase": "displayBlockPlato"
   },
   {
     "id": 4,
     "nombrePlato": "Servido de panceta",
-    "img1": "/elkiosco/img/",
-    "img2": "/elkiosco/img/",
-    "img3": "/elkiosco/img/",
+    "img1": "./img/panceta-1.webp",
+    "img2": "./img/panceta-2.webp",
+    "img3": "./img/panceta-3.webp",
     "clase": "displayBlockPlato"
   },
   {
     "id": 5,
     "nombrePlato": "Sancocho de gallina",
-    "img1": "/elkiosco/img/",
-    "img2": "/elkiosco/img/",
-    "img3": "/elkiosco/img/",
+    "img1": "./img/sancocho-de-gallina-1.webp",
+    "img2": "./img/sancocho-de-gallina-2.webp",
+    "img3": "./img/sancocho-de-gallina-3.webp",
     "clase": "displayBlockPlato"
   },
   {
     "id": 6,
     "nombrePlato": "Frijolada",
-    "img1": "/elkiosco/img/",
-    "img2": "/elkiosco/img/",
-    "img3": "/elkiosco/img/",
+    "img1": "./img/frijolada-1.webp",
+    "img2": "./img/frijolada-2.webp",
+    "img3": "./img/frijolada-3.webp",
     "clase": "displayBlockPlato"
   }
 ]

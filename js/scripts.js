@@ -6,7 +6,7 @@ fetch('./js/data.json') // Ruta a tu archivo JSON
         return response.json(); // Parsea la respuesta como JSON
     })
     .then(data => {
-        console.log(data);
+        // console.log(data);
 
         const platosDiv = document.querySelector('.platosDiv');
         const platosImg = document.querySelector('.content-img-platos');
@@ -25,13 +25,13 @@ fetch('./js/data.json') // Ruta a tu archivo JSON
                 const platoRender = document.createRange().createContextualFragment(
                     `
                         <div class="plato-img">
-                            <img src="${plato.img1}">
+                            <img src="${plato.img1}" width="" height="" loading="lazy" alt="plato-${plato.id}" />
                         </div>
                         <div class="plato-img">
-                            <img src="${plato.img2}">
+                            <img src="${plato.img2}" width="" height="" loading="lazy" alt="plato-${plato.id}" />
                         </div>
                         <div class="plato-img">
-                            <img src="${plato.img3}">
+                            <img src="${plato.img3}" width="" height="" loading="lazy" alt="plato-${plato.id}" />
                         </div>
                         `
                 )
