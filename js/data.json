@@ -21,7 +21,7 @@
     "img1": "./img/sobrebarriga-1.webp",
     "img2": "./img/sobrebarriga-2.webp",
     "img3": "./img/sobrebarriga-3.webp",
-    "clase": "displayBlockPlato"
+    "clase": "displayNonePlato"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "img1": "./img/panceta-1.webp",
     "img2": "./img/panceta-2.webp",
     "img3": "./img/panceta-3.webp",
-    "clase": "displayBlockPlato"
+    "clase": "displayNonePlato"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "img1": "./img/sancocho-de-gallina-1.webp",
     "img2": "./img/sancocho-de-gallina-2.webp",
     "img3": "./img/sancocho-de-gallina-3.webp",
-    "clase": "displayBlockPlato"
+    "clase": "displayNonePlato"
   },
   {
     "id": 6,
@@ -45,6 +45,30 @@
     "img1": "./img/frijolada-1.webp",
     "img2": "./img/frijolada-2.webp",
     "img3": "./img/frijolada-3.webp",
+    "clase": "displayNonePlato"
+  },
+  {
+    "id": 7,
+    "nombrePlato": "Asado Huilense",
+    "img1": "./img/asado-huilense-1.webp",
+    "img2": "./img/asado-huilense-2.webp",
+    "img3": "./img/asado-huilense-3.webp",
+    "clase": "displayBlockPlato"
+  },
+  {
+    "id": 8,
+    "nombrePlato": "Sopa de arracacha con costilla",
+    "img1": "./img/sopa-arracacha-1.webp",
+    "img2": "./img/sopa-arracacha-2.webp",
+    "img3": "./img/sopa-arracacha-3.webp",
+    "clase": "displayBlockPlato"
+  },
+  {
+    "id": 9,
+    "nombrePlato": "Sopa de arracacha con gallina",
+    "img1": "./img/sopa-arracacha-1.webp",
+    "img2": "./img/gallina-1.webp",
+    "img3": "./img/gallina-2.webp",
     "clase": "displayBlockPlato"
   }
 ]
